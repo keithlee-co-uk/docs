@@ -2,7 +2,8 @@
 
 ----
 ## Links
-[Pyramid Development with Docker](Pyramid Development with Docker.md)
+* [Index](README.md)
+* [Pyramid Development with Docker](Pyramid Development with Docker.md)
 
 ----
 
