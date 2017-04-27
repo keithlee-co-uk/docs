@@ -1,9 +1,11 @@
 # Installing other versions of Python on Debian 8 (Jessie) for Development using pyenv
 
+**pyenv** enables you to install multiple versions of Python without messing up the base install for your OS
+
+It is *NOT* a vertual environment (as I thought to begin with)
 ----
-## Links
+
 * [Index](README.md)
-* [Pyramid Development with Docker](Pyramid Development with Docker.md)
 
 ----
 
@@ -95,8 +97,14 @@ To install the version of python you require into pyenv
 
 ----
 
+* [Index](README.md)
+
+----
+
 *author: Keith Lee <code@keithlee.co.uk>*
 
-*last updated: 2017-04-20 21:40:03*
+*last updated: 2017-04-26*
+
+
 
 

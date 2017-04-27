@@ -17,7 +17,7 @@ Installations are based from a base install of the [netinst](https://www.debian.
 * [Install Docker](#InstallDocker)
 * [Uninstall Docker](#UninstallDocker)
 
-* [Fix the IP addresses](#FixtheIPaddresses)
+* [Fix the IP addresses](#Fix the IP addresses)
 * [Initiate a Swarm](#InitiateaSwarm)
 
 ----
@@ -168,4 +168,12 @@ y8y8vftmhfoltvja0t7mziokd *  docker-manager-vm  Ready   Active        Leader
 
 ----
 
-* **[Index Page](README.md)**
+* [Index](README.md)
+
+----
+
+*author: Keith Lee <code@keithlee.co.uk>*
+
+*last updated: 2017-04-26*
+
+

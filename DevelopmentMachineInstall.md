@@ -11,7 +11,7 @@ Installations are based from a base install of the [netinst](https://www.debian.
 ## Table of Contents
 
 * [Python Environment](Install Python 3.6 on Debian for development.md)
-* [Install a Graphical Shell](DevelopmentMachineInstall.md#InstallaGraphicalShell)
+* [Install a Graphical Shell](DevelopmentMachineInstall.md#Install-a-Graphical-Shell)
 * [Browser and plugin](DevelopmentMachineInstall.md#chromiumbrowserplugin)
 
 
@@ -46,7 +46,7 @@ Install the plugin.
 
 ----
 
-### IDE Install
+## IDE Install
 
 [Wing IDE](http://www.wingware.com/) may be downloaded with the link.
 You will need a paid for License key for the professional version, which I'll be using but the Personal and 101 versions are free License versions.
@@ -58,5 +58,17 @@ for example
  `sudo dpkg -i Downloads/wingide6_6.0.4-1_amd64.deb`
 
 
+
+----
+
+
+* [Index](README.md)
+
+
+----
+
+*author: Keith Lee <code@keithlee.co.uk>*
+
+*last updated: 2017-04-26*
 
 
