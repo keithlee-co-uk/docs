@@ -2,7 +2,12 @@
 
 **pyenv** enables you to install multiple versions of Python without messing up the base install for your OS
 
-It is *NOT* a vertual environment (as I thought to begin with)
+It is *NOT* a virtual environment (as I thought to begin with), though pyenv-virtualenv, a plugin for pyenv for handling virtualenv, with help you with this.
+
+There is also [pyvenv](https://docs.python.org/3/library/venv.html), which comes with Python3.4 but for python3.6 The pyvenv script has been deprecated in favour of python3 -m venv.
+
+This is why I have decided to jump from Python2.7.n, in which I was using virtualenv, to Python3.6 to reduce the amount of learning required to understand the foibles of each system.
+ 
 ----
 
 * [Index](README.md)
@@ -77,21 +82,19 @@ if [ -d "$HOME/.pyenv" ] ; then
   export PYENV_ROOT="$HOME/.pyenv"
   export PATH="$PYENV_ROOT/bin:$PATH"
   eval "$(pyenv init -)"
-  eval "$(pyenv virtualenv-init -)"
 fi
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 eval "$(pyenv init -)" is need to place the various versions of Python you may wish to have in
 
-eval "$(pyenv virtualenv-init -)" enables the plugin that allows you to create virtualenv environments for your specific project
-
 
 ## About usage
 
 It's worth studying [pyenv README.md](https://github.com/pyenv/pyenv/blob/master/README.md) to aid understanding and the usage of pyenv
 
-To install the version of python you require into pyenv
+To install the version of python you require into pyenv within the directory you wish this version of python to work with.
+If the requested version is not currently part of pyenv then it will be installed and a .version.py file will be placed in the directory you are in so that the pyenv *shim* will take effect down the directory tree.
 
   `pyenv install 3.6.0`
 
@@ -103,7 +106,7 @@ To install the version of python you require into pyenv
 
 *author: Keith Lee <code@keithlee.co.uk>*
 
-*last updated: 2017-04-26*
+*last updated: 2017-04-27*
 
 
 

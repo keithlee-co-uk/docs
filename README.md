@@ -4,12 +4,13 @@
 ----
 
 
-* [Python Development Machine Install](DevelopmentMachineInstall.md)
-  * [Python Environment](Install Python 3.6 on Debian for development.md)
+* **[Python Development Machine Install](DevelopmentMachineInstall.md)**
+  * [Installing Python](Install Python 3.6 on Debian for development.md) (without messing with your Operating System)
   * [Graphical Shell](DevelopmentMachineInstall.md#InstallaGraphicalShell)
   * [Browser and plugin](DevelopmentMachineInstall.md#chromiumbrowserplugin)
   * [IDE Install](DevelopmentMachineInstall.md#IDE-Install)
 
+* **[Project Creation](CreatePythonProject.md)**
 
 * [Installing Pyramid](InstallingPyramid.md)
 
@@ -27,6 +28,6 @@
 
 *author: Keith Lee <code@keithlee.co.uk>*
 
-*last updated: 2017-04-26*
+*last updated: 2017-04-27*
 
 
