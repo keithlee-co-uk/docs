@@ -16,11 +16,17 @@
 
 
 ----
-## one off git tasks
+## One off Git Tasks
+These tasks need only be performed once for a new development machine. They set the name and email address you will use for all your project commits from this development machine.
+
 
 `git config --global user.name <name>`
 
 `git config --global user.email <email>`
+
+
+There are many options and settings for [git](https://git-scm.com/), these values may also be set on a project by project basis too. There are several [tutorials](https://git-scm.com/docs/gittutorial) and [guides](http://rogerdudler.github.io/git-guide/). It's well worth reading a few.
+
 
 ----
 # For each Project
@@ -30,6 +36,9 @@
 `cd <path to repo>/<project name>`
 
 `git remote add <name> <url>`
+
+<url> will depend on where you have your remote Repository.
+
 
 `touch README.md`
 

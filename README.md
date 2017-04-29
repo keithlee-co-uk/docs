@@ -6,7 +6,7 @@
 ## Machine installation
 
 * **[Python Development Machine Install](DevelopmentMachineInstall.md)**
-  * [Installing Python](Install Python 3.6 on Debian for development.md) (without messing with your Operating System)
+  * [Installing Python](Install-Python-3.6-on-Debian-for-development.md) (without messing with your Operating System)
   * [Graphical Shell](DevelopmentMachineInstall.md#InstallaGraphicalShell)
   * [Browser and plugin](DevelopmentMachineInstall.md#chromiumbrowserplugin)
   * [IDE Install](DevelopmentMachineInstall.md#IDE-Install)
@@ -31,7 +31,6 @@
 * [Installing Pyramid](InstallingPyramid.md)
 
 
-* [Pyramid Development with Docker](Pyramid Development with Docker.md)
 
 
 ----

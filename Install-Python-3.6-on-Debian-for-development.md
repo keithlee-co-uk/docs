@@ -10,7 +10,7 @@ This is why I have decided to jump from Python2.7.n, in which I was using virtua
  
 ----
 
-* [Index](README.md)
+* **[Index Page](README.md)**
 
 ----
 
@@ -100,7 +100,7 @@ If the requested version is not currently part of pyenv then it will be installe
 
 ----
 
-* [Index](README.md)
+* **[Index Page](README.md)**
 
 ----
 
