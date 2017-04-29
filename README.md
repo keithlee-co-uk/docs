@@ -7,16 +7,16 @@
 
 * **[Python Development Machine Install](DevelopmentMachineInstall.md)**
   * [Installing Python](Install-Python-3.6-on-Debian-for-development.md) (without messing with your Operating System)
-  * [Graphical Shell](DevelopmentMachineInstall.md#InstallaGraphicalShell)
-  * [Browser and plugin](DevelopmentMachineInstall.md#chromiumbrowserplugin)
+  * [Graphical Shell](DevelopmentMachineInstall.md#Install-a-Graphical-Shell)
+  * [Browser and plugin](DevelopmentMachineInstall.md#chromium-browser-plugin)
   * [IDE Install](DevelopmentMachineInstall.md#IDE-Install)
 
 
 * **[Docker Swarm](DockerSwarm.md)**
-  * [Docker install](DockerSwarm.md#DockerInstall)
-  * [Docker Manager](DockerSwarm.md#DockerManagerConfiguration)
-  * [Fix the IP addresses](DockerSwarm.md#FixtheIPaddresses)
-  * [Initiate a Swarm](DockerSwarm.md#InitiateaSwarm)
+  * [Docker install](DockerSwarm.md#Docker-Install)
+  * [Docker Manager](DockerSwarm.md#Docker-Manager-Configuration)
+  * [Fix the IP addresses](DockerSwarm.md#Fix-the-IP-addresses)
+  * [Initiate a Swarm](DockerSwarm.md#Initiate-a-Swarm)
 
 
 ## Project Management

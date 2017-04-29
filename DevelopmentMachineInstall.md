@@ -10,16 +10,16 @@ Installations are based from a base install of the [netinst](https://www.debian.
 
 ## Table of Contents
 
-* [Python Environment](Install Python 3.6 on Debian for development.md)
+* [Python Environment](Install-Python-3.6-on-Debian-for-development.md)
 * [Install a Graphical Shell](DevelopmentMachineInstall.md#Install-a-Graphical-Shell)
-* [Browser and plugin](DevelopmentMachineInstall.md#chromiumbrowserplugin)
+* [Browser and plugin](DevelopmentMachineInstall.md#chromium-browser-plugin)
 
 
 
 ----
 
 ## Python Environment Install
-[Installing pvenv](Install Python 3.6 on Debian for development.md)
+[Installing pvenv](CreateVENV.md)
 
 ----
 
