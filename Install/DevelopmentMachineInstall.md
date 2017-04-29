@@ -62,7 +62,7 @@ for example
 ----
 
 
-* [Index](../README.md)
+* **[Index Page](../README.md)**
 
 
 

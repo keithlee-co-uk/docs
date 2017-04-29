@@ -13,6 +13,9 @@ I'm assuming the use of the [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shel
 
 * **[Index Page](../README.md)**
 
+*  [Python Development Machine Install](DevelopmentMachineInstall.md)
+*  [Project Creation](CreatePythonProject.md)
+
 * reference: [venv](https://docs.python.org/3/tutorial/venv.html)
 
 ----
@@ -20,8 +23,8 @@ I'm assuming the use of the [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shel
 ## Table of Contents
 
 * [Python Versions](#Python-Versions)
-* [Python version, for the Environment](#Python-version,-for-the-Environment)
-* [Virtual Environment for the Project](#Virtual-Environment-for-the-Project)
+* [Python version, for the Environment](#python-version,-for-the-environment)
+* [Virtual Environment for the Project](#virtual-environment-for-the-project)
 
 
 
@@ -85,10 +88,11 @@ or
 `source <your project path>/.env/MyProject-py35/bin/activate`  
 
 ----
-----
 
-* [Development Machine Install](DevelopmentMachineInstall.md)
 * **[Index Page](../README.md)**
+
+*  [Python Development Machine Install](DevelopmentMachineInstall.md)
+*  [Project Creation](CreatePythonProject.md)
 
 
 

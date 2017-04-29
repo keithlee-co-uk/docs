@@ -4,15 +4,7 @@
 
 * **[Index Page](../README.md)**
 
-----
-
-## Table of Contents
-
-* [Project Directory](#Project-Directory)
-* [Virtual Environment for the Project](CreateVENV.md)
-* [Python versions](Python version, for the Environment)
-
-
+* [Project Creation](CreatePythonProject.md)
 
 
 ----
@@ -53,5 +45,6 @@ There are many options and settings for [git](https://git-scm.com/), these value
 
 * **[Index Page](../README.md)**
 
+* [Project Creation](CreatePythonProject.md)
 
 

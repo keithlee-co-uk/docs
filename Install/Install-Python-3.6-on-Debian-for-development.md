@@ -17,6 +17,8 @@ I've carried out this using a base [netinst](https://www.debian.org/releases/sta
 
 * **[Index Page](../README.md)**
 
+*  [Python Development Machine Install](DevelopmentMachineInstall.md)
+
 ----
 
 
@@ -100,8 +102,7 @@ If the requested version is not currently part of pyenv then it will be installe
 
 * **[Index Page](../README.md)**
 
-----
+*  [Python Development Machine Install](DevelopmentMachineInstall.md)
 
-*author: Keith Lee <code@keithlee.co.uk>*
 
 

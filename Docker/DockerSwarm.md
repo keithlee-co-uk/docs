@@ -168,7 +168,7 @@ y8y8vftmhfoltvja0t7mziokd *  docker-manager-vm  Ready   Active        Leader
 
 ----
 
-* [Index](../README.md)
+* **[Index](../README.md)**
 
 
 

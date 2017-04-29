@@ -12,7 +12,7 @@
   * [IDE Install](Install/DevelopmentMachineInstall.md#ide-install)
 
 
-* **[Docker Swarm](DockerSwarm.md)**
+* **[Docker Swarm](Docker/DockerSwarm.md)**
   * [Docker install](Docker/DockerSwarm.md#docker-install)
   * [Docker Manager](Docker/DockerSwarm.md#docker-manager-configuration)
   * [Fix the IP addresses](Docker/DockerSwarm.md#fix-the-ip-addresses)
@@ -21,7 +21,7 @@
 
 ## Project Management
 
-* **[Project Creation](CreatePythonProject.md)**
+* **[Project Creation](Install/CreatePythonProject.md)**
   * 1 [Version Control](Install/CreateGit.md)
   * 2 [Virtual Environment(s) for the Project and Python versions](Install/CreateVENV.md)
 
