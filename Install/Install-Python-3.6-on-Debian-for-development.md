@@ -15,7 +15,7 @@ I've carried out this using a base [netinst](https://www.debian.org/releases/sta
 
 ----
 
-* **[Index Page](README.md)**
+* **[Index Page](../README.md)**
 
 ----
 
@@ -98,7 +98,7 @@ If the requested version is not currently part of pyenv then it will be installe
 
 ----
 
-* **[Index Page](README.md)**
+* **[Index Page](../README.md)**
 
 ----
 

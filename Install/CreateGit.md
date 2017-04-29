@@ -2,7 +2,7 @@
 ---
 
 
-* **[Index Page](README.md)**
+* **[Index Page](../README.md)**
 
 ----
 
@@ -40,9 +40,9 @@ There are many options and settings for [git](https://git-scm.com/), these value
 <url> will depend on where you have your remote Repository.
 
 
-`touch README.md`
+`touch ../README.md`
 
-`git add README.md`
+`git add ../README.md`
 
 `git add commit -m "Initial Commit"`
 
@@ -51,7 +51,7 @@ There are many options and settings for [git](https://git-scm.com/), these value
 
 ----
 
-* **[Index Page](README.md)**
+* **[Index Page](../README.md)**
 
 
 

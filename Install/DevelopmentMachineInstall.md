@@ -4,7 +4,7 @@ Installations are based from a base install of the [netinst](https://www.debian.
 
 ----
 
-* **[Index Page](README.md)**
+* **[Index Page](../README.md)**
 
 ----
 
@@ -62,7 +62,7 @@ for example
 ----
 
 
-* [Index](README.md)
+* [Index](../README.md)
 
 
 

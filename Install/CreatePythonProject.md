@@ -2,7 +2,7 @@
 ---
 
 
-* **[Index Page](README.md)**
+* **[Index Page](../README.md)**
 
 ----
 
@@ -20,6 +20,6 @@ Though these steps may be performed in any order there are a few instruction con
 
 
 
-* **[Index Page](README.md)**
+* **[Index Page](../README.md)**
 
 

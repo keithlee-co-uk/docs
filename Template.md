@@ -3,7 +3,7 @@
 
 ----
 
-* [Index](README.md)
+* [Index](../README.md)
 
 
 ----
@@ -22,6 +22,6 @@
 
 ----
 
-* [Index](README.md)
+* [Index](../README.md)
 
 

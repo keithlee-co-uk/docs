@@ -4,7 +4,7 @@ This Document assumes that you have already installed a [Development Machine](De
 
 ----
 
-* **[Index Page](README.md)**
+* **[Index Page](../README.md)**
 
 ----
 
@@ -20,6 +20,6 @@ This Document assumes that you have already installed a [Development Machine](De
 
 ----
 
-* [Index](README.md)
+* [Index](../README.md)
 
 

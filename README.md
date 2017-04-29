@@ -5,30 +5,30 @@
 
 ## Machine installation
 
-* **[Python Development Machine Install](DevelopmentMachineInstall.md)**
-  * [Installing Python](Install-Python-3.6-on-Debian-for-development.md) (without messing with your Operating System)
-  * [Graphical Shell](DevelopmentMachineInstall.md#install-a-graphical-shell)
-  * [Browser and plugin](DevelopmentMachineInstall.md#chromium-browser-plugin)
-  * [IDE Install](DevelopmentMachineInstall.md#ide-install)
+* **[Python Development Machine Install](Install/DevelopmentMachineInstall.md)**
+  * [Installing Python](Install/Install-Python-3.6-on-Debian-for-development.md) (without messing with your Operating System)
+  * [Graphical Shell](Install/DevelopmentMachineInstall.md#install-a-graphical-shell)
+  * [Browser and plugin](Install/DevelopmentMachineInstall.md#chromium-browser-plugin)
+  * [IDE Install](Install/DevelopmentMachineInstall.md#ide-install)
 
 
 * **[Docker Swarm](DockerSwarm.md)**
-  * [Docker install](DockerSwarm.md#docker-install)
-  * [Docker Manager](DockerSwarm.md#docker-manager-configuration)
-  * [Fix the IP addresses](DockerSwarm.md#fix-the-ip-addresses)
-  * [Initiate a Swarm](DockerSwarm.md#initiate-a-swarm)
+  * [Docker install](Docker/DockerSwarm.md#docker-install)
+  * [Docker Manager](Docker/DockerSwarm.md#docker-manager-configuration)
+  * [Fix the IP addresses](Docker/DockerSwarm.md#fix-the-ip-addresses)
+  * [Initiate a Swarm](Docker/DockerSwarm.md#initiate-a-swarm)
 
 
 ## Project Management
 
 * **[Project Creation](CreatePythonProject.md)**
-  * 1 [Version Control](CreateGit.md)
-  * 2 [Virtual Environment(s) for the Project and Python versions](CreateVENV.md)
+  * 1 [Version Control](Install/CreateGit.md)
+  * 2 [Virtual Environment(s) for the Project and Python versions](Install/CreateVENV.md)
 
 
 ## Working with The Pyramid Framework
 
-* [Installing Pyramid](InstallingPyramid.md)
+* [Installing Pyramid](Pyramid/InstallingPyramid.md)
 
 
 

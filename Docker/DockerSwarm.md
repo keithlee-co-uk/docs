@@ -4,7 +4,7 @@ Installations are based from a base install of the [netinst](https://www.debian.
 
 ----
 
-* **[Index Page](README.md)**
+* **[Index Page](../README.md)**
 
 * reference: [Swarm Tutorial](https://docs.docker.com/engine/swarm/swarm-tutorial/)
 
@@ -168,7 +168,7 @@ y8y8vftmhfoltvja0t7mziokd *  docker-manager-vm  Ready   Active        Leader
 
 ----
 
-* [Index](README.md)
+* [Index](../README.md)
 
 
 

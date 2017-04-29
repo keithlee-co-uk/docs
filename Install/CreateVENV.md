@@ -11,7 +11,7 @@ I'm assuming the use of the [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shel
 
 ----
 
-* **[Index Page](README.md)**
+* **[Index Page](../README.md)**
 
 * reference: [venv](https://docs.python.org/3/tutorial/venv.html)
 
@@ -88,7 +88,7 @@ or
 ----
 
 * [Development Machine Install](DevelopmentMachineInstall.md)
-* **[Index Page](README.md)**
+* **[Index Page](../README.md)**
 
 
 
