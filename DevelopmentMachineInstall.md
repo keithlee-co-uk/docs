@@ -11,8 +11,8 @@ Installations are based from a base install of the [netinst](https://www.debian.
 ## Table of Contents
 
 * [Python Environment](Install-Python-3.6-on-Debian-for-development.md)
-* [Install a Graphical Shell](DevelopmentMachineInstall.md#Install-a-Graphical-Shell)
-* [Browser and plugin](DevelopmentMachineInstall.md#chromium-browser-plugin)
+* [Install a Graphical Shell](#install-a-graphical-shell)
+* [Browser and plugin](#chromium-browser-plugin)
 
 
 
@@ -64,11 +64,5 @@ for example
 
 * [Index](README.md)
 
-
-----
-
-*author: Keith Lee <code@keithlee.co.uk>*
-
-*last updated: 2017-04-26*
 
 

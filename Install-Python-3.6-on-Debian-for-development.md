@@ -8,16 +8,14 @@ There is also [pyvenv](https://docs.python.org/3/library/venv.html), which comes
 
 This is why I have decided to jump from Python2.7.n, in which I was using virtualenv, to Python3.6 to reduce the amount of learning required to understand the foibles of each system.
  
-----
-
-* **[Index Page](README.md)**
-
-----
-
 The following is derived from and answer by [Nick T](https://askubuntu.com/users/140640/nick-t)
 to the question [How do I Install Python3.6 using apt-get](https://askubuntu.com/questions/865554/how-do-i-install-python-3-6-using-apt-get) on [ask ubuntu](https://askubuntu.com/)
 
 I've carried out this using a base [netinst](https://www.debian.org/releases/stable/debian-installer/) of [Debian](https://www.debian.org/) 8.5 (Jessie)
+
+----
+
+* **[Index Page](README.md)**
 
 ----
 
@@ -105,9 +103,5 @@ If the requested version is not currently part of pyenv then it will be installe
 ----
 
 *author: Keith Lee <code@keithlee.co.uk>*
-
-*last updated: 2017-04-27*
-
-
 
 

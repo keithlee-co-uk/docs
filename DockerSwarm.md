@@ -13,12 +13,12 @@ Installations are based from a base install of the [netinst](https://www.debian.
 
 ## Table of Contents
 
-* [Swarm Member Requirements](#SwarmRequirements)
-* [Install Docker](#InstallDocker)
-* [Uninstall Docker](#UninstallDocker)
+* [Swarm Member Requirements](#swarm-requirements)
+* [Install Docker](#install-docker)
+* [Uninstall Docker](#uninstall-docker)
 
-* [Fix the IP addresses](#Fix the IP addresses)
-* [Initiate a Swarm](#InitiateaSwarm)
+* [Fix the IP addresses](#fix-the-ip-addresses)
+* [Initiate a Swarm](#initiate-a-swarm)
 
 ----
 
@@ -170,10 +170,5 @@ y8y8vftmhfoltvja0t7mziokd *  docker-manager-vm  Ready   Active        Leader
 
 * [Index](README.md)
 
-----
-
-*author: Keith Lee <code@keithlee.co.uk>*
-
-*last updated: 2017-04-26*
 
 

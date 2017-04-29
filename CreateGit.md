@@ -53,9 +53,5 @@ There are many options and settings for [git](https://git-scm.com/), these value
 
 * **[Index Page](README.md)**
 
-----
 
-*author: Keith Lee <code@keithlee.co.uk>*
-
-*last updated: 2017-04-28*
 
